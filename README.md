@@ -2,7 +2,7 @@
 
 ---
 
-### 👋 Hi there
+### 👋 Hi There
 
 [![github](https://img.shields.io/github/followers/scruel?logo=github)](https://github.com/scruel?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/4ca2df14-0447-46a7-9b8e-ce71c2825591.svg)](https://wakatime.com/@4ca2df14-0447-46a7-9b8e-ce71c2825591)
