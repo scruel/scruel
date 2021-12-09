@@ -7,7 +7,7 @@
 [![github](https://img.shields.io/github/followers/scruel?logo=github)](https://github.com/scruel?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/4ca2df14-0447-46a7-9b8e-ce71c2825591.svg)](https://wakatime.com/@4ca2df14-0447-46a7-9b8e-ce71c2825591)
 [![stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/7341454?label=reputation&logo=stackoverflow&color=blue)](https://stackoverflow.com/users/7341454/scruel)
-[![zhihu](https://img.shields.io/badge/dynamic/json?logo=Zhihu&color=blue&label=followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dscruel)](https://www.zhihu.com/people/scruel) 
+[![zhihu](https://img.shields.io/badge/dynamic/json?logo=Zhihu&color=blue&label=followers&query=%24.follower_count&url=https%3A%2F%2Fwww.zhihu.com%2Fapi%2Fv4%2Fmembers%2Fscruel%3Finclude%3Dfollower_count)](https://www.zhihu.com/people/scruel) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fscruel%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 I'm Scruel, a Software Engineering :hammer_and_wrench: from China. I'm open-source development enthusiast.
