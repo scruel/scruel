@@ -12,8 +12,8 @@
 
 I'm Scruel, a Software Engineering :hammer_and_wrench: from China. I'm open-source development enthusiast.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scruel&hide=html&theme=dracula&hide_border=true)
 [![stats](https://github-readme-stats.vercel.app/api?username=scruel&count_private=true&line_height=40&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scruel&hide=html&theme=dracula&hide_border=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=scruel&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
