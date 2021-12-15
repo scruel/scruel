@@ -12,7 +12,7 @@
 
 I'm Scruel, a Software Engineering :hammer_and_wrench: from China. I'm open-source development enthusiast.
 
-☕ Buy me a coffee: https://afdian.net/@scruel
+💌 Sponsor me: https://afdian.net/@scruel
 
 [![stats](https://github-readme-stats.vercel.app/api?username=scruel&count_private=true&line_height=40&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scruel&hide=html&theme=dracula&hide_border=true)
