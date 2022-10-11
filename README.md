@@ -10,7 +10,7 @@
 [![zhihu](https://img.shields.io/badge/dynamic/json?logo=Zhihu&color=blue&label=followers&query=%24.follower_count&url=https%3A%2F%2Fwww.zhihu.com%2Fapi%2Fv4%2Fmembers%2Fscruel%3Finclude%3Dfollower_count)](https://www.zhihu.com/people/scruel) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fscruel%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm Scruel, a Software Engineering :hammer_and_wrench: from China. I'm open-source development enthusiast.
+I'm Scruel, a Software Engineer :hammer_and_wrench: from China. I'm open-source development enthusiast.
 
 💌 Sponsor me: https://afdian.net/@scruel
 
